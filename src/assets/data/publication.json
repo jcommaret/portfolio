@@ -1,0 +1,26 @@
+[ 
+    {
+      "title": "Meteor.js : 3 ans plus tard.",
+      "date":"Janv 2020 - Medium",
+      "link":"https://medium.com/meteor-in-french/meteor-js-3-ans-plus-tard-931d942032b9",
+      "desc":"Un petit comparatif technique"
+    },    
+    {
+      "title": "Automatisez vos mises à jour de code via FTP avec git + npm + gulp + vinyl-ftp .",
+      "date":"Avril 2017 - Medium",
+      "link":"https://medium.com/thecreative-cat/automatisez-vos-mises-%C3%A0-jour-de-code-via-ftp-avec-git-npm-gulp-vinyl-ftp-45c7bd1b0ba6",
+      "desc":"Une petite astuce permettant de gagner un peu de temps sur les hbergement ne prenant pas git en compte"
+    },
+    {
+      "title": "Pourquoi j’ai choisi Meteor.js ! (et pourquoi vous devriez aussi).",
+      "date":"Nov. 2016 - Medium",
+      "link":"https://medium.com/meteor-in-french/pourquoi-jai-choisi-meteor-js-et-pourquoi-vous-devriez-aussi-17931a38be28",
+      "desc":"Un article sur pourquoi j'aime bien cette technologie trop peu utilisé"
+    },
+    {
+      "title": "AllowInlineMediaPlayback is not AllowsInlineMediaPlayback !",
+      "date":"Nov. 2016 - Medium",
+      "link":"https://medium.com/thecreative-cat/allowinlinemediaplayback-is-not-allowsinlinemediaplayback-1a9123fdf88c",
+      "desc":"Comment j'ai passé des heures a corriger un problème de \"S\" "
+    }
+]
