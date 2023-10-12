@@ -1,5 +1,11 @@
 [ 
     {
+      "company": "Front End Developpeur",
+      "date":"mars 2022 - juin 2023",
+      "desc" : "Cooperative training course to learn javascript/react app development",
+      "img":"https://media.licdn.com/dms/image/D4E0BAQGGjlGUHa2png/company-logo_200_200/0/1665412801839/openclassrooms_logo?e=1704931200&v=beta&t=Ti2oRz-gnGTWYpABM2Y_tQ_UZa17o2ZUSPjz1QNmEyU"
+    },
+    {
       "company": "Front End Manager at LeLynx.fr",
       "date":"juin 2021 - janv 2022",
       "desc" : "LeLynx is an insurrance comparator",
@@ -7,49 +13,49 @@
     },
     {
       "company": "Fullstack developer at Imagine-App",
-      "date":"2014 - 2015",
+      "date":"07/2019 - 01/2021",
       "desc":"Imagine app is a company who works as an Engenering partner for startup. i was in charge of developing features for theses companies.",
       "img":"https://media.licdn.com/dms/image/C4D0BAQGQwd_eIEAC8A/company-logo_200_200/0/1519951482146?e=1704931200&v=beta&t=izHgN-Pimqv1sUGLSFSCHC5nKyrEtDcaGtlQ8SmGGm8"
     }
 ,
     {
       "company": "Front-end developer at SQLI",
-      "date":"2014 - 2015",
-      "desc":"Wordked as software developer for Amundi and Société Générale",
+      "date":"09/2018 - 02/2019",
+      "desc":"Worked as software developer for Amundi and Société Générale",
       "img":"https://media.licdn.com/dms/image/C4E0BAQG-J6AkHh0beQ/company-logo_200_200/0/1655470893106/sqli_logo?e=1704931200&v=beta&t=dZjOodDyj5Hje85hBTIItkjuo5KdAoQdEZ95BZiIH4Q"
     }
 ,
     {
       "company": "Front end developer at Eexpand",
-      "date":"2014 - 2015",
+      "date":"05/2017 - 08/2018",
       "desc":"Eexpand is a software editor who edits a social network for importers and exporters allowing them to do business together",
       "img":"https://media.licdn.com/dms/image/C4E0BAQG1P5v82uAOwg/company-logo_100_100/0/1673014499383/export_enterprises_logo?e=1704931200&v=beta&t=BmN_Ko94tED1M3m-rDUu1S3IUcPtiMLe9F47zoAfDes"
     }
 ,
     {
       "company": "Lead Tech Front at DigitasLbi / Publicis Sapient",
-      "date":"2014 - 2015",
+      "date":"06/2015 - 09/2015",
       "desc":"Managing a team of 3 people to launch 140 websites for Michelin Worldwide.",
       "img":"https://media.licdn.com/dms/image/D4E0BAQFBLqu-aPvgtQ/company-logo_200_200/0/1688590236169/publicissapient_logo?e=1704931200&v=beta&t=WEmJeIN_JERpmpTQjJykqJgTBvdKwfaFT81iiUd6Zc4"
     }
 ,
     {
       "company": "CTO and Founding member at Meetmyjob",
-      "date":"2014 - 2015",
+      "date":"11/2014 - 04/2015",
       "desc":"Meet My Job, was a platform for passionnate people to meet crafters",
       "img":"https://media.licdn.com/dms/image/C4E0BAQGrfOhFFcs6Yw/company-logo_200_200/0/1519895149814?e=1704931200&v=beta&t=sK0BMKThZ7AHpyp9jZZK5aeFv1h9dUt2ALay-cC9LnY"
     }
 ,
     {
       "company": "Digital Activation Manager at The Coca Cola Company",
-      "date":"2014 - 2015",
+      "date":"12/2013 - 10/2014",
       "desc":"As a Digital Activation Manager, i was responsible for all digitals assests The Coca-Cola Company and its relatives corporation, projects inludes DMP, social network campaign, wordpress and brand new beverage launch",
       "img":"https://media.licdn.com/dms/image/C560BAQFdDysNTJsI5Q/company-logo_200_200/0/1673983420336/the_coca_cola_company_logo?e=1704931200&v=beta&t=J5IcwP4t4DgVCOQqdCoBU-tcHGAeZVpJWnA1yanmvv4"
     }
 ,
     {
       "company": "Web & Mobile project manager at RegimeCoach",
-      "date":"2014 - 2015",
+      "date":"01/2013 - 07/2013",
       "desc":"In charge of managing a team for building the Russian declinaison of Dukan website. ",
       "img":"https://media.licdn.com/dms/image/C560BAQHWqHMTqGND6w/company-logo_200_200/0/1580379735845?e=1704931200&v=beta&t=mebl1x8ja-YT8q6c4LJqlv7l7XnhiSWBkPoz8PGxdC0"
     }
