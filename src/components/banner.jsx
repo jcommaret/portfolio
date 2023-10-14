@@ -3,7 +3,7 @@ function Banner(){
         <header className="container">
             <a href="/" className="name w-nav-link">
                 <span>Jérôme Commaret<br/></span>
-                <span className="text-span">Web projet manager, developer <br/>10 years experience</span>
+                <span className="text-span">Lead Front End <br/>More than 5 years of experience</span>
             </a>
             <nav role="navigation">
                 <a href="https:/medium.com" className="nav-link w-nav-link">Twitter</a>
