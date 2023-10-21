@@ -1,41 +1,44 @@
-[ 
-    {
-      "company": "Front End Developpeur",
-      "date":"mars 2022 - juin 2023",
-      "desc" : "Cooperative training course to learn javascript/react app development",
-      "img":"https://media.licdn.com/dms/image/D4E0BAQGGjlGUHa2png/company-logo_200_200/0/1665412801839/openclassrooms_logo?e=1704931200&v=beta&t=Ti2oRz-gnGTWYpABM2Y_tQ_UZa17o2ZUSPjz1QNmEyU"
-    },
-    {
-      "company": "Front End Manager at LeLynx.fr",
-      "date":"juin 2021 - janv 2022",
-      "desc" : "LeLynx is an insurrance comparator",
-      "img":"https://media.licdn.com/dms/image/D4E0BAQFN0UD5pByCLw/company-logo_200_200/0/1696583947311/lelynx_fr_logo?e=1704931200&v=beta&t=lM6YQPpZ7d5RobjV2IPycpj-iJQVER14KPmzYzOvXvE"
-    },
-    {
-      "company": "Fullstack developer at Imagine-App",
-      "date":"07/2019 - 01/2021",
-      "desc":"Imagine app is a company who works as an Engenering partner for startup. i was in charge of developing features for theses companies.",
-      "img":"https://media.licdn.com/dms/image/C4D0BAQGQwd_eIEAC8A/company-logo_200_200/0/1519951482146?e=1704931200&v=beta&t=izHgN-Pimqv1sUGLSFSCHC5nKyrEtDcaGtlQ8SmGGm8"
-    }
-,
-    {
-      "company": "Front-end developer at SQLI",
-      "date":"09/2018 - 02/2019",
-      "desc":"Worked as software developer for Amundi and Société Générale",
-      "img":"https://media.licdn.com/dms/image/C4E0BAQG-J6AkHh0beQ/company-logo_200_200/0/1655470893106/sqli_logo?e=1704931200&v=beta&t=dZjOodDyj5Hje85hBTIItkjuo5KdAoQdEZ95BZiIH4Q"
-    }
-,
-    {
-      "company": "Front end developer at Eexpand",
-      "date":"05/2017 - 08/2018",
-      "desc":"Eexpand is a software editor who edits a social network for importers and exporters allowing them to do business together",
-      "img":"https://media.licdn.com/dms/image/C4E0BAQG1P5v82uAOwg/company-logo_100_100/0/1673014499383/export_enterprises_logo?e=1704931200&v=beta&t=BmN_Ko94tED1M3m-rDUu1S3IUcPtiMLe9F47zoAfDes"
-    }
-,
-    {
-      "company": "Lead Tech Front at DigitasLbi / Publicis Sapient",
-      "date":"06/2015 - 09/2015",
-      "desc":"Managing a team of 3 people to launch 140 websites for Michelin Worldwide.",
-      "img":"https://media.licdn.com/dms/image/D4E0BAQFBLqu-aPvgtQ/company-logo_200_200/0/1688590236169/publicissapient_logo?e=1704931200&v=beta&t=WEmJeIN_JERpmpTQjJykqJgTBvdKwfaFT81iiUd6Zc4"
-    }
+[
+  {
+    "id": "1",
+    "company": "Front End Developpeur",
+    "date": "mars 2022 - juin 2023",
+    "desc": "Cooperative training course to learn javascript/react app development",
+    "img": "https://media.licdn.com/dms/image/D4E0BAQGGjlGUHa2png/company-logo_200_200/0/1665412801839/openclassrooms_logo?e=1704931200&v=beta&t=Ti2oRz-gnGTWYpABM2Y_tQ_UZa17o2ZUSPjz1QNmEyU"
+  },
+  {
+    "id": "2",
+    "company": "Front End Manager at LeLynx.fr",
+    "date": "juin 2021 - janv 2022",
+    "desc": "LeLynx is an insurrance comparator",
+    "img": "https://media.licdn.com/dms/image/D4E0BAQFN0UD5pByCLw/company-logo_200_200/0/1696583947311/lelynx_fr_logo?e=1704931200&v=beta&t=lM6YQPpZ7d5RobjV2IPycpj-iJQVER14KPmzYzOvXvE"
+  },
+  {
+    "id": "3",
+    "company": "Fullstack developer at Imagine-App",
+    "date": "07/2019 - 01/2021",
+    "desc": "Imagine app is a company who works as an Engenering partner for startup. i was in charge of developing features for theses companies.",
+    "img": "https://media.licdn.com/dms/image/C4D0BAQGQwd_eIEAC8A/company-logo_200_200/0/1519951482146?e=1704931200&v=beta&t=izHgN-Pimqv1sUGLSFSCHC5nKyrEtDcaGtlQ8SmGGm8"
+  },
+  {
+    "id": "4",
+    "company": "Front-end developer at SQLI",
+    "date": "09/2018 - 02/2019",
+    "desc": "Worked as software developer for Amundi and Société Générale",
+    "img": "https://media.licdn.com/dms/image/C4E0BAQG-J6AkHh0beQ/company-logo_200_200/0/1655470893106/sqli_logo?e=1704931200&v=beta&t=dZjOodDyj5Hje85hBTIItkjuo5KdAoQdEZ95BZiIH4Q"
+  },
+  {
+    "id": "5",
+    "company": "Front end developer at Eexpand",
+    "date": "05/2017 - 08/2018",
+    "desc": "Eexpand is a software editor who edits a social network for importers and exporters allowing them to do business together",
+    "img": "https://media.licdn.com/dms/image/C4E0BAQG1P5v82uAOwg/company-logo_100_100/0/1673014499383/export_enterprises_logo?e=1704931200&v=beta&t=BmN_Ko94tED1M3m-rDUu1S3IUcPtiMLe9F47zoAfDes"
+  },
+  {
+    "id": "6",
+    "company": "Lead Tech Front at DigitasLbi / Publicis Sapient",
+    "date": "06/2015 - 09/2015",
+    "desc": "Managing a team of 3 people to launch 140 websites for Michelin Worldwide.",
+    "img": "https://media.licdn.com/dms/image/D4E0BAQFBLqu-aPvgtQ/company-logo_200_200/0/1688590236169/publicissapient_logo?e=1704931200&v=beta&t=WEmJeIN_JERpmpTQjJykqJgTBvdKwfaFT81iiUd6Zc4"
+  }
 ]

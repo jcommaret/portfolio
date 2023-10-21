@@ -7,10 +7,10 @@ function ExperienceList() {
       <h2 id="work-experience" className="section-title">
         Work experience
       </h2>
-      <ul className="experienceList">
-        {ExperienceList.map((xp, index) => (
+      {ExperienceList.map((xp, index) => (
+        <ul className="experienceList" key={index}>
           <li>
-            <div className="experience_card" key={index}>
+            <div className="experience_card">
               <img
                 src={xp.img}
                 loading="lazy"
@@ -25,8 +25,8 @@ function ExperienceList() {
               </div>
             </div>
           </li>
-        ))}
-      </ul>
+        </ul>
+      ))}
     </div>
   )
 }
