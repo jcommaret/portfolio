@@ -1,7 +1,7 @@
-import data from "../assets/data/experience.json"
+import experiences from "../assets/data/experience.json"
 
 function ExperienceList() {
-  const ExperienceList = data
+  const ExperienceList = experiences
   return (
     <div aria-label="experience" className="container">
       <h2 id="work-experience" className="section-title">

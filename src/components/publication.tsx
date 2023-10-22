@@ -1,7 +1,7 @@
-import data from "../assets/data/publication.json"
+import publications from "../assets/data/publication.json"
 
 function publicationList() {
-  const publicationList = data
+  const publicationList = publications
   return (
     <div className="container">
       <h2 id="some-words" className="section-title">
